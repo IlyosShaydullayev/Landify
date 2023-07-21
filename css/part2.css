@@ -1,3 +1,6 @@
+.section1{
+    max-width: 1440px;
+}
 .box{
     margin-top: 100px;
     background: #FFF;
@@ -6,7 +9,7 @@
     flex-direction: column;
     align-items: center;
     gap: 64px;
-    width: 1436px;
+    max-width: 1440px;
     height: 748px;
 }
 .box1{
@@ -43,7 +46,7 @@ line-height: 28px;
 flex-direction: column;
 align-items: flex-start;
 gap: 64px;
-width: 1212px;
+max-width: 1212px;
 height: 368px;
 display: flex;
 }
@@ -70,6 +73,7 @@ flex-direction: column;
 align-items: center;
 gap: 24px;
 margin-top: 64px;
+margin-bottom: 100px;
 }
 p{
     align-self: stretch;
@@ -88,6 +92,7 @@ line-height: 24px;
 }
 .box4{
     display: flex;
+    flex-wrap: wrap;
     margin-top: 64px;
     flex-wrap: wrap;
 }
