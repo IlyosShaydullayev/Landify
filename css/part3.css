@@ -1,0 +1,147 @@
+.testimonial{
+    width: 1440px;
+    height: 962px;
+    background-color: rgb(210, 251, 251);
+    position: absolute;
+}
+.testimonial .quate-mark{
+    margin: 64px 0px 0px 112px;
+    position: absolute;
+    width: 142px;
+    height: 116px;
+}
+.testimonial .section-heading{
+    position: absolute;
+    font-size: 48px; 
+    color: var(--neutral-900, #111827); 
+    width: 488px;
+    margin: 120px 0px 0px 216px;
+}
+.testimonial .descripton{
+    font-size: 18px; 
+    padding: 248px 0px 0px 216px;
+    color: var(--neutral-900, #111827); 
+}
+.testimonial-item{
+    width: 384px; 
+    display: flex;
+    height: 396px;
+    border-radius: 8px;
+    background-color: var(--white, #FFF); 
+    position: absolute;
+    top: 340px;
+    left: 360px;
+}
+.testimonial-item .client-logo{
+    position: absolute;
+    padding: 2px 0px 0px 32px;
+    width: 112px;
+    top: 32px;
+}
+.testimonial-item .quate-mark-mini{
+    width: 16px;
+    height: 13px;
+    padding: 96px 0px 0px 32px;
+}
+.testimonial-item .fedbak{
+    width: 288px;
+    font-size: 18px; 
+    color: var(--neutral-900, #111827); 
+    padding: 80px 0px 0px 10px;
+}
+.testimonial-item .floyid{
+    font-family: Inter;
+    font-size: 18px; 
+    color: var(--neutral-900, #111827); 
+    position: absolute;
+    margin: 256px 0px 0px 60px;
+}
+.testimonial-item .vice{
+    position: absolute;
+    padding: 266px 0px 0px 60px;
+    font-family: Inter;
+    font-size: 14px; 
+    color: var(--neutral-500, #6B7280); 
+}
+.testimonial-item-tuu{
+    width: 488px;
+    height: 312px;
+    border-radius: 8px;
+    background-color: var(--white, #FFF); 
+    position: absolute;
+    top: 196px;
+    left: 796px;
+}
+.testimonial-item-tuu{
+    padding: 32px 0px 0px 32px;
+}
+.testimonial-item-tuu .quate-mark{
+    width: 16px;
+    height: 13px;
+    margin-left: -110px;
+}
+
+.testimonial-item-tuu .fedbag{
+    padding: 10px 0px 0px 30px;
+    width: 392px;
+    font-size: 21px;
+}
+.testimonial-item-tuu .h6{
+    color: var(--neutral-900, #111827);
+    font-feature-settings: 'liga' off;
+    font-family: Inter;
+    font-size: 20px; 
+    position: absolute;
+    left: 60px;
+    top: 170px;
+}
+.testimonial-item-tuu .ceo{
+    color: var(--neutral-500, #6B7280);
+    font-feature-settings: 'liga' off;
+    font-family: Inter;
+    font-size: 14px; 
+    position: absolute;
+    top: 230px;
+    left: 60px;
+}
+.testimonial-item-3{
+    width: 384px;
+    height: 256px;
+    background-color: var(--white, #FFF);
+    position: absolute;
+    top: 590px;
+    left: 796px;
+    border-radius: 10px;
+}
+.testimonial-item-3 .client-logo-3{
+    padding: 32px 0px 0px 32px;
+    width: 112px;
+    top: 32px;
+}
+.testimonial-item-3 .mark-3{
+    width: 16px;
+    left: 13px;
+    padding: 96px 0px 0px 32px;
+    position: absolute;
+}
+.testimonial-item-3 .landify-3{
+    color: var(--neutral-900, #111827);
+    position: absolute;
+    font-size: 18px; 
+    padding: 10px 0px 0px 70px;
+}
+.testimonial-item-3 .kristin-3{
+    color: var(--neutral-900, #111827);
+    font-size: 18px; 
+    padding: 50px 0px 0px 70px;
+}
+.testimonial-item-3 .founder-3{
+    color: var(--neutral-500, #6B7280);
+    font-size: 14px; 
+    left: 70px;
+    top: 170px;
+    position: absolute;
+}
+
+
+
